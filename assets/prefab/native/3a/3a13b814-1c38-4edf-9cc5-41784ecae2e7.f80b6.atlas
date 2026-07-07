@@ -1,0 +1,27 @@
+
+ui_jiesuo.png
+size: 664,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_lock_zh
+  rotate: true
+  xy: 338, 2
+  size: 244, 161
+  orig: 246, 162
+  offset: 1, 1
+  index: -1
+game_lock_zh01
+  rotate: true
+  xy: 501, 2
+  size: 244, 161
+  orig: 246, 162
+  offset: 1, 1
+  index: -1
+zhizhuwang
+  rotate: false
+  xy: 2, 3
+  size: 334, 243
+  orig: 334, 243
+  offset: 0, 0
+  index: -1

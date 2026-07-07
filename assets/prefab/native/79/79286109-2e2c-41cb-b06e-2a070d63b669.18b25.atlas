@@ -1,0 +1,41 @@
+
+starDH.png
+size: 726,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VFX_Blick_1
+  rotate: false
+  xy: 429, 46
+  size: 83, 83
+  orig: 89, 89
+  offset: 3, 3
+  index: -1
+glow1
+  rotate: false
+  xy: 1, 1
+  size: 426, 426
+  orig: 512, 512
+  offset: 43, 43
+  index: -1
+line
+  rotate: false
+  xy: 593, 117
+  size: 79, 12
+  orig: 79, 12
+  offset: 0, 0
+  index: -1
+linght_point
+  rotate: false
+  xy: 514, 52
+  size: 77, 77
+  orig: 84, 83
+  offset: 3, 3
+  index: -1
+quan
+  rotate: false
+  xy: 429, 131
+  size: 296, 296
+  orig: 300, 300
+  offset: 2, 2
+  index: -1
